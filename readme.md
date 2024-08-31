@@ -78,12 +78,12 @@
 
 <h3>🕹️ Regras & mecânicas:</h3>
 
-`<b>`Jogadores:`</b>`
+<b>Jogadores:</b>
 
 <input type="checkbox" id="jogadores-item" />
 <label for="jogadores-item">O Computador deve receber dois personagens para disputar a corrida em um objeto cada</label>
 
-`<b>`Pistas:`</b>`
+<b>Pistas:</b>
 
 <ul>
   <li><input type="checkbox" id="pistas-1-item" /> <label for="pistas-1-item">Os personagens irão correr em uma pista aleatória de 5 rodadas</label></li>
@@ -97,7 +97,7 @@
   </li>
 </ul>
 
-`<b>`Condição de vitória:`</b>`
+<b>Condição de vitória:</b>
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
